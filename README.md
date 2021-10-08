@@ -1,0 +1,1 @@
+This project is a website where I added some recipes of my favorite food. The goal of it is to practice and prove my knowledge in basic HTML. ;)
