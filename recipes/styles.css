@@ -1,0 +1,22 @@
+body{
+    background-color:  khaki;
+}
+h1{
+    background-color:  rgb(153, 148, 103);
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+div img{
+    width: 600px;
+    height: auto;
+}
+h2{
+    background-color: rgb(173, 168, 121);
+}
+div a{
+    background-color: rgba(170, 219, 170, 0.897);
+    text-align: center;
+}
