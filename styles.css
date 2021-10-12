@@ -4,6 +4,7 @@ body{
 h1{
     background-color: rgb(153, 148, 103);
     text-align: center;
+    font-family: 'Brush Script MT', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 div{
     display: flex;
